@@ -26,7 +26,7 @@ Nine pink squares with bold black numbers 1 to 9, centered on a dark blue page i
 
 ### ⚙️ Fork and clone
 
-1. Fork this repo. Use the fork and clone guide *(add link)*.
+1. Fork this repo. Use this [fork and clone guide](https://docs.google.com/document/d/18jxCUA0bebCyYaIHy8aaKMgOQH4w5-b-iCGDWpV4K4M/edit?tab=t.55gk3qetux2a#heading=h.wbbot8ebr58a).
 2. Clone **your fork** into your `dev` folder.
 3. Open the `tic-tac-toe` folder in VS Code.
 
